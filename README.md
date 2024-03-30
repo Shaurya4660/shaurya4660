@@ -2,7 +2,7 @@
 <h3 align="center">As a Full Stack developer, I excel in both front-end finesse and back-end brilliance, seamlessly integrating innovation into every line of code. I take pride in showcasing India's technological expertise through my work.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaurya4660&label=Profile%20views&color=0e75b6&style=flat" alt="Shaurya4660" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shaurya4660&theme=" alt="Shaurya4660" /></a> </p>
+
 
 - 🔭 I’m currently working on **E-Commerce website**
 - 🌱 I’m currently learning **Data structures and Algorithm**
